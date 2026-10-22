@@ -4,5 +4,5 @@ POWERonSI ANI-01
 
 POWRRonSI TPV
 
-POWERonSIno usuario
+POWERonSI usuario
       
