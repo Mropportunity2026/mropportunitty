@@ -2,7 +2,7 @@
 
 POWERonSI ANI-01
 
-POWERRonSIno TPV
+POWERonSIno TPV
 
 POWERonSIno usuario
       
